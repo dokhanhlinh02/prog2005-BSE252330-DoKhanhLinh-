@@ -1,0 +1,4 @@
+# Bài 11
+C = float(input("Nhập nhiệt độ theo độ C:"))
+F = C * 9 / 5 + 32
+print("Nhiệt độ theo độ F là:",F)
