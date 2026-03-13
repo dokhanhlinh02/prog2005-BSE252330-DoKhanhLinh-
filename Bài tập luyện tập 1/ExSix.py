@@ -1,7 +1,7 @@
 # Bài 6:
 import math
 s = input("Nhập chuỗi số (vd: 5; 7; 8; -2; 8; 11; 13; 9; 10):" )
-numb = [int(x.strip()) for x in s.split(" ")]
+numb = [int(x.strip()) for x in s.split(";")]
 print("Các số:")
 for num in numb:
     print(num)
