@@ -1,4 +1,4 @@
-# Bài 8:
+# Bài 10:
 def bubble_sort_string():
     arr = []
     print("Nhập vào 5 chuỗi:")
