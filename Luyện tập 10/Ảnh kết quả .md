@@ -1,5 +1,5 @@
 Bài 1:
-1[bài_1](https://github.com/dokhanhlinh02/prog2005-BSE252330-DoKhanhLinh-/blob/0fcbd6c665b3e9948fa183766195fdfba7b06f1d/Luy%E1%BB%87n%20t%E1%BA%ADp%2010/Screenshot%202026-03-20%20161841.png)
+![bài_1](https://github.com/dokhanhlinh02/prog2005-BSE252330-DoKhanhLinh-/blob/0fcbd6c665b3e9948fa183766195fdfba7b06f1d/Luy%E1%BB%87n%20t%E1%BA%ADp%2010/Screenshot%202026-03-20%20161841.png)
 
 Bài 2:
 ![bài_2](https://github.com/dokhanhlinh02/prog2005-BSE252330-DoKhanhLinh-/blob/0fcbd6c665b3e9948fa183766195fdfba7b06f1d/Luy%E1%BB%87n%20t%E1%BA%ADp%2010/Screenshot%202026-03-20%20162406.png)
