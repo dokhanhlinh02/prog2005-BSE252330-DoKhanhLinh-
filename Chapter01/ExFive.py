@@ -1,4 +1,8 @@
-# Bài 5
+# Bài 5: Yêu cầu: Khai báo, xử lý và hiển thị thông tin cá nhân
+# Tạo các biến name, age và average_score
+#Sử dụng hàm type() để hiển thị kiểu dữ liệu của từng biến
+#Tạo biến age_next_year bằng cách cộng 1 vào age, và doubled_score bằng cách nhân đôi average_score
+#In ra tất cả thông tin và kiểu dữ liệu của chúng
 name = "Linh"
 age = 18
 average_score = 9,5
