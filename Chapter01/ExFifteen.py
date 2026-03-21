@@ -1,4 +1,4 @@
-# Bài 15
+# Bài 15: Yêu cầu: Nhập thông tin 3 sinh viên (Tên và điểm 3 môn - Toán, Lý, Hóa). In ra tên sinh viên, và điểm trung bình tương ứng.
 for i in range(1, 4):
     print("Sinh viên",i)
     name = input("Nhập tên sinh viên:")
