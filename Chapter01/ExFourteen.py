@@ -1,4 +1,4 @@
-# Bài 14
+# Bài 14: Yêu cầu: Nhập một số và tính căn bậc hai của nó. Nếu số nhập vào âm, hiển thị thông báo lỗi.
 number = float(input("Nhập một số :"))
 if number < 0:
     print("Lỗi, không thể tính căn bậc hai của số âm")
