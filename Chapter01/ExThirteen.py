@@ -1,4 +1,4 @@
-# Bài 13
+# Bài 13: Yêu cầu: Nhập hai số nguyên từ bàn phím và in ra kết quả phép chia của chúng. Xử lý chia cho 0 và dữ liệu không hợp lệ.
 a = int(input("Nhập số chia nguyên thứ nhất:"))
 b = int(input("nhập số chia nguyên thứ hai:"))
 if b == 0:
