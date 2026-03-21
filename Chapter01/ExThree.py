@@ -1,4 +1,4 @@
-# Bài 3
+# Bài 3: Yêu cầu: Thực hiện các phép toán cơ bản với hai số. Nhập hai số nguyên từ người dùng. Tính và in ra tổng, hiệu, tích và thương của chúng
 a = int(input("Số nguyên thứ nhất:"))
 b = int(input("Số ngyên thứ hai:"))
 tong = a + b
