@@ -1,0 +1,6 @@
+# Bài 8:
+student = ("Linh", 20, 8.5)
+name, age, gpa = student
+print("Tên:", name)
+print("Tuổi:", age)
+print("Điểm trung bình:", gpa)
