@@ -1,4 +1,11 @@
 # Bài 5:
-s = {"a": 10, "b": 22, "c": 3, "d": 7}
+my_dict = {
+    "name": "Linh",
+    "age": 18,
+    "city": "Hà Nội"
+}
 key = input("Nhập key cần kiểm tra: ")
-print("Có tồn tại" if key in s else " không tồn tại")
+if key in my_dict:
+    print(f"Key '{key}' tồn tại trong dictionary với giá trị: {my_dict[key]}")
+else:
+    print(f"Key '{key}' không tồn tại trong dictionary.")
