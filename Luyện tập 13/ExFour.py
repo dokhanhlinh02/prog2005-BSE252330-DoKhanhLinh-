@@ -1,0 +1,8 @@
+# Bài 4:
+def tong_de_quy(n):
+    if n == 1:
+        return 1
+    return n + tong_de_quy(n - 1)
+
+n = int(input("Nhập n: "))
+print("Tổng từ 1 đến", n, "là:", tong_de_quy(n))
